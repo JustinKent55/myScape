@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyScape</string>
+
+    <string name="photo_gallery_instructions">- Click on the photo gallery button to select an image from photo album to edit.</string>
+    <string name="addedit_image_instructions">- Click on the + button to add plant life to your image</string>
+    <string name="drag_image_instructions">- Click on the plant life to drag and move it around.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_image_edit_view">ImageEditView</string>
+    <string name="edit_background_image">BackgroundImage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_image_edit">ImageEditActivity</string>
+    <string name="title_activity_add_image">AddImage</string>
+</resources>
